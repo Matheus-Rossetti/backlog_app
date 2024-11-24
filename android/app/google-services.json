@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "25710655658",
+    "project_id": "backlogapp-38411",
+    "storage_bucket": "backlogapp-38411.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25710655658:android:483fe3b55f1a098c41f8d3",
+        "android_client_info": {
+          "package_name": "com.backlog_app.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25710655658-jbbscshaokcbhbv5vk3lkfbkaq19sfg3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.backlog_app.app",
+            "certificate_hash": "b61cb37ab654f00eefedc203320a6f0776722178"
+          }
+        },
+        {
+          "client_id": "25710655658-ilaq16ci9u5vmb8ak9ulp34sd1em1sc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC0tQ4ylaPOcxCTmS7skPoZFo5OBG218c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25710655658-ilaq16ci9u5vmb8ak9ulp34sd1em1sc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25710655658-k17cdrjtml9a2rohm6o20hokpmib980r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.backlogApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
